@@ -10,6 +10,6 @@ This is a simple Node.js challenges files.
    git clone https://github.com/DavidSia/challenge.git
    cd challenge
 
-2. Open the terminal:
+2. Inside the repository folder:
    ```bash
    node <name_of_the_file>.js
